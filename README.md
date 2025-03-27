@@ -40,7 +40,7 @@ I'm **Tirawat Nantamas**, a passionate **Software Developer & UX/UI Designer** w
 ### 3️⃣ **WebApp with ASP.NET & ViteJS**
 📌 *Modern web applications using ASP.NET backend and ViteJS for fast front-end development.*
 
-![WebApp](https://source.unsplash.com/800x400/?web,app)
+![WebApp](dotnet.png)
 
 🔗 [View Project](https://github.com/yourusername/webapp-aspnet-vitejs)
 
@@ -49,7 +49,7 @@ I'm **Tirawat Nantamas**, a passionate **Software Developer & UX/UI Designer** w
 ### 4️⃣ **AI Training & Language Models**
 📌 *AI model training projects using Python, TensorFlow, and R for NLP and image recognition.*
 
-![AI Training](https://source.unsplash.com/800x400/?ai,ml)
+![AI Training](ai.png)
 
 🔗 [View Project](https://github.com/yourusername/ai-training-language)
 
